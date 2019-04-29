@@ -39,7 +39,7 @@
 	  "data": {
 		"name": "Backstage Passes to YOUR-FANCY-CONCERT",
 		"sellIn": 30,
-		"quality": 10
+		"quality": 5
 	  },
 	  "options": {
 		"qualityDegrationRate": 1,

@@ -1,3 +1,5 @@
+require("console.table");
+
 const {expect} = require('chai');
 const sampleData = require("../src/sampleData");
 const {Shop, Item} = require('../src/gildedRose.js');
@@ -19,36 +21,12 @@ describe("Gilded Rose", function() {
 
 		/* Loop 30 times */
 		for(let i = 0; i < 30; i++){
+			/* Age the shop by 1 day */
 			gildedRose.doAge();
+
+			/* And print a summary of the current state of the shop */
 			gildedRose.summarize();
 		}
 	});
-
-	// it("quality of an item is never negative", () => {
-	// 	/* Age the shop by x days */
-	// 	gildedRose.doAge(100);
-	//
-	// 	/* Loop through all items and check if their quality is not lower than 0 */
-	// 	for(let item of gildedRose.items){
-	// 		expect(item.quality >= 0);
-	// 	}
-	//
-	// 	gildedRose.summarize();
-	// });
-
-	// it("quality of an item is never above 50", () => {
-	// 	/* Initialize new Shop */
-	// 	let gildedRose = initNewShop();
-	//
-	// 	/* Age the shop by x days */
-	// 	gildedRose.doAge(100);
-	//
-	// 	/* Loop through all items and check if their quality is not lower than 0 */
-	// 	for(let item of gildedRose.items){
-	// 		expect(item.quality <= 50);
-	// 	}
-	//
-	// 	gildedRose.summarize();
-	// });
 
 });

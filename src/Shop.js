@@ -7,7 +7,7 @@ class Shop {
 		this.age = 0;
 
 		console.log("Created new shop.");
-		console.log(`This shop has ${this.items.length} items.`);
+		this.summarize();
 	}
 
 	/**
@@ -15,7 +15,7 @@ class Shop {
 	 * @param {int} nDays
 	 */
 	doAge(nDays = 1) {
-		console.log(`Aging this Shop for ${nDays} days...`);
+		console.log(`Aging this Shop for ${nDays} day(s)...`);
 		for(let i = 0; i < nDays; i++){
 			this.updateQualityOfAllItems();
 		}
@@ -28,15 +28,19 @@ class Shop {
 	}
 
 	summarize() {
+		const shopStats = {
+			age: this.age + " days",
+			numberOfItems: this.items.length + " items",
+		};
+
 		console.log();
-		console.log(`=== Shop stats ===`);
-		console.log(`* Age: ${this.age} days`);
-		console.log(`* Number of items: ${this.items.length} items`);
-		console.log();
+		console.table("== Shop statistics ==", shopStats);
 
 		/* Summarize all items in the Shop */
-		this.items.map(item => console.log(item.summarize()));
-		console.log(`=== END ===`);
+		const items = this.items.map(item => item.summarize());
+		console.table("== Items in shop ==", items);
+		console.log();
+		console.log();
 	}
 
 	old_updateQuality() {

@@ -1,20 +1,20 @@
 {
-  "name": "openweb-test",
+  "name": "gilded-rose-kata",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Solution for the Gilded Rose Kata, by Koen Brouwer.",
+  "author": "Koen Brouwer",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "mocha"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/emilybache/GildedRose-Refactoring-Kata.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/emilybache/GildedRose-Refactoring-Kata/issues"
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/emilybache/GildedRose-Refactoring-Kata#readme",
   "devDependencies": {
     "chai": "^4.2.0",
+    "console.table": "^0.10.0",
     "mocha": "^6.1.4"
   }
 }
