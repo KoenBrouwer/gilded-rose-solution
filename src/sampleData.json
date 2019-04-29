@@ -1,0 +1,50 @@
+{
+  "items": [
+	{
+	  "data": {
+		"name": "Fruit",
+		"sellIn": 3,
+		"quality": 25
+	  }
+	},
+	{
+	  "data": {
+		"name": "Bread",
+		"sellIn": 7,
+		"quality": 25
+	  }
+	},
+	{
+	  "data": {
+		"name": "Aged Brie",
+		"sellIn": 30,
+		"quality": 10
+	  },
+	  "options": {
+		"qualityDegrationRate": 1
+	  }
+	},
+	{
+	  "data": {
+		"name": "Sulfuras",
+		"sellIn": 0,
+		"quality": 80
+	  },
+	  "options": {
+		"legendary": true,
+		"skipInitialValidation": true
+	  }
+	},
+	{
+	  "data": {
+		"name": "Backstage Passes to YOUR-FANCY-CONCERT",
+		"sellIn": 30,
+		"quality": 10
+	  },
+	  "options": {
+		"qualityDegrationRate": 1,
+		"agingBehaviour": "backstagePass"
+	  }
+	}
+  ]
+}

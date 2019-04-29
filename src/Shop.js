@@ -1,9 +1,45 @@
 class Shop {
 	constructor(items = []) {
+		/**
+		 * @property {[Product]} items
+		 */
 		this.items = items;
+		this.age = 0;
+
+		console.log("Created new shop.");
+		console.log(`This shop has ${this.items.length} items.`);
 	}
 
-	updateQuality() {
+	/**
+	 * Method that ages the shop for {nDays} days.
+	 * @param {int} nDays
+	 */
+	doAge(nDays = 1) {
+		console.log(`Aging this Shop for ${nDays} days...`);
+		for(let i = 0; i < nDays; i++){
+			this.updateQualityOfAllItems();
+		}
+
+		this.age += nDays;
+	}
+
+	updateQualityOfAllItems() {
+		this.items.map(item => item.doAge());
+	}
+
+	summarize() {
+		console.log();
+		console.log(`=== Shop stats ===`);
+		console.log(`* Age: ${this.age} days`);
+		console.log(`* Number of items: ${this.items.length} items`);
+		console.log();
+
+		/* Summarize all items in the Shop */
+		this.items.map(item => console.log(item.summarize()));
+		console.log(`=== END ===`);
+	}
+
+	old_updateQuality() {
 		for(var i = 0; i < this.items.length; i++){
 			if(this.items[i].name != 'Aged Brie' && this.items[i].name != 'Backstage passes to a TAFKAL80ETC concert'){
 				if(this.items[i].quality > 0){

@@ -1,7 +1,7 @@
-const Item = require("./Item");
+const Product = require("./Product");
 const Shop = require("./Shop");
 
 module.exports = {
-  Item,
+  Item: Product,
   Shop
 }
