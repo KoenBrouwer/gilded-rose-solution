@@ -35,17 +35,6 @@ class Product extends Item {
 
 	/** Method that degrades the quality of this Product, based on its configuration. */
 	doAge() {
-		/* When a day ends:
-		[i] Once the sell by date has passed, Quality degrades twice as fast
-		[i] The Quality of an item is never negative
-		[i] "Aged Brie" actually increases in Quality the older it gets
-		[i] The Quality of an item is never more than 50
-		[i] "Sulfuras", being a legendary item, never has to be sold or decreases in Quality
-		[i] "Backstage passes", like aged brie, increases in Quality as its SellIn value approaches
-			[-] Quality increases by 2 when there are 10 days or less and by 3 when there are 5 days or less but
-			[i] Quality drops to 0 after the concert
-		 */
-
 		/* If a custom aging behaviour for this product was passed in the config, return the result of that custom function. */
 		if(this.configuration.agingBehaviour){
 			const doAge = require("./AgeBehaviours/" + this.configuration.agingBehaviour);
