@@ -1,0 +1,628 @@
+
+
+  Gilded Rose
+Created new shop.
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            0 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           0    3         25     
+Bread                                   7           0    7         25     
+Aged Brie                               30          0    30        10     
+Sulfuras                                0           0    0         80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          0    30        5      
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            1 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           1    2         24     
+Bread                                   7           1    6         24     
+Aged Brie                               30          1    29        11     
+Sulfuras                                0           1    -1        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          1    29        6      
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            2 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           2    1         23     
+Bread                                   7           2    5         23     
+Aged Brie                               30          2    28        12     
+Sulfuras                                0           2    -2        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          2    28        7      
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            3 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           3    0         21     
+Bread                                   7           3    4         22     
+Aged Brie                               30          3    27        13     
+Sulfuras                                0           3    -3        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          3    27        8      
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            4 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           4    -1        19     
+Bread                                   7           4    3         21     
+Aged Brie                               30          4    26        14     
+Sulfuras                                0           4    -4        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          4    26        9      
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            5 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           5    -2        17     
+Bread                                   7           5    2         20     
+Aged Brie                               30          5    25        15     
+Sulfuras                                0           5    -5        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          5    25        10     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            6 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           6    -3        15     
+Bread                                   7           6    1         19     
+Aged Brie                               30          6    24        16     
+Sulfuras                                0           6    -6        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          6    24        11     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            7 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           7    -4        13     
+Bread                                   7           7    0         17     
+Aged Brie                               30          7    23        17     
+Sulfuras                                0           7    -7        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          7    23        12     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            8 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           8    -5        11     
+Bread                                   7           8    -1        15     
+Aged Brie                               30          8    22        18     
+Sulfuras                                0           8    -8        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          8    22        13     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            9 days 
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           9    -6        9      
+Bread                                   7           9    -2        13     
+Aged Brie                               30          9    21        19     
+Sulfuras                                0           9    -9        80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          9    21        14     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            10 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           10   -7        7      
+Bread                                   7           10   -3        11     
+Aged Brie                               30          10   20        20     
+Sulfuras                                0           10   -10       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          10   20        15     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            11 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           11   -8        5      
+Bread                                   7           11   -4        9      
+Aged Brie                               30          11   19        21     
+Sulfuras                                0           11   -11       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          11   19        16     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            12 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           12   -9        3      
+Bread                                   7           12   -5        7      
+Aged Brie                               30          12   18        22     
+Sulfuras                                0           12   -12       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          12   18        17     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            13 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           13   -10       1      
+Bread                                   7           13   -6        5      
+Aged Brie                               30          13   17        23     
+Sulfuras                                0           13   -13       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          13   17        18     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            14 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           14   -11       0      
+Bread                                   7           14   -7        3      
+Aged Brie                               30          14   16        24     
+Sulfuras                                0           14   -14       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          14   16        19     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            15 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           15   -12       0      
+Bread                                   7           15   -8        1      
+Aged Brie                               30          15   15        25     
+Sulfuras                                0           15   -15       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          15   15        20     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            16 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           16   -13       0      
+Bread                                   7           16   -9        0      
+Aged Brie                               30          16   14        26     
+Sulfuras                                0           16   -16       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          16   14        21     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            17 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           17   -14       0      
+Bread                                   7           17   -10       0      
+Aged Brie                               30          17   13        27     
+Sulfuras                                0           17   -17       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          17   13        22     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            18 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           18   -15       0      
+Bread                                   7           18   -11       0      
+Aged Brie                               30          18   12        28     
+Sulfuras                                0           18   -18       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          18   12        23     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            19 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           19   -16       0      
+Bread                                   7           19   -12       0      
+Aged Brie                               30          19   11        29     
+Sulfuras                                0           19   -19       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          19   11        24     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            20 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           20   -17       0      
+Bread                                   7           20   -13       0      
+Aged Brie                               30          20   10        30     
+Sulfuras                                0           20   -20       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          20   10        26     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            21 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           21   -18       0      
+Bread                                   7           21   -14       0      
+Aged Brie                               30          21   9         31     
+Sulfuras                                0           21   -21       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          21   9         28     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            22 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           22   -19       0      
+Bread                                   7           22   -15       0      
+Aged Brie                               30          22   8         32     
+Sulfuras                                0           22   -22       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          22   8         30     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            23 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           23   -20       0      
+Bread                                   7           23   -16       0      
+Aged Brie                               30          23   7         33     
+Sulfuras                                0           23   -23       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          23   7         32     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            24 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           24   -21       0      
+Bread                                   7           24   -17       0      
+Aged Brie                               30          24   6         34     
+Sulfuras                                0           24   -24       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          24   6         34     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            25 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           25   -22       0      
+Bread                                   7           25   -18       0      
+Aged Brie                               30          25   5         35     
+Sulfuras                                0           25   -25       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          25   5         39     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            26 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           26   -23       0      
+Bread                                   7           26   -19       0      
+Aged Brie                               30          26   4         36     
+Sulfuras                                0           26   -26       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          26   4         44     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            27 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           27   -24       0      
+Bread                                   7           27   -20       0      
+Aged Brie                               30          27   3         37     
+Sulfuras                                0           27   -27       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          27   3         49     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            28 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           28   -25       0      
+Bread                                   7           28   -21       0      
+Aged Brie                               30          28   2         38     
+Sulfuras                                0           28   -28       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          28   2         50     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            29 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           29   -26       0      
+Bread                                   7           29   -22       0      
+Aged Brie                               30          29   1         39     
+Sulfuras                                0           29   -29       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          29   1         50     
+
+
+
+Aging this Shop for 1 day(s)...
+
+== Shop statistics ==
+key            value  
+-------------  -------
+age            30 days
+numberOfItems  5 items
+
+== Items in shop ==
+--------------------------------------------------------------------------
+name                                    sellInDays  age  daysLeft  quality
+--------------------------------------  ----------  ---  --------  -------
+Fruit                                   3           30   -27       0      
+Bread                                   7           30   -23       0      
+Aged Brie                               30          30   0         41     
+Sulfuras                                0           30   -30       80     
+Backstage Passes to YOUR-FANCY-CONCERT  30          30   0         0      
+
+
+
+    ✓ shows a log of what happens in 30 days
+
+
+  1 passing (22ms)
+
