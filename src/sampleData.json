@@ -45,6 +45,16 @@
 		"qualityDegrationRate": 1,
 		"agingBehaviour": "backstagePass"
 	  }
+	},
+	{
+	  "data": {
+		"name": "Conjured item",
+		"sellIn": 10,
+		"quality": 22
+	  },
+	  "options": {
+		"qualityDegrationRate": -2
+	  }
 	}
   ]
 }

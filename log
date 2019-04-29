@@ -7,7 +7,7 @@ Created new shop.
 key            value  
 -------------  -------
 age            0 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -18,6 +18,7 @@ Bread                                   7           0    7         25
 Aged Brie                               30          0    30        10     
 Sulfuras                                0           0    0         80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          0    30        5      
+Conjured item                           10          0    10        22     
 
 
 
@@ -27,7 +28,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            1 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -38,6 +39,7 @@ Bread                                   7           1    6         24
 Aged Brie                               30          1    29        11     
 Sulfuras                                0           1    -1        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          1    29        6      
+Conjured item                           10          1    9         20     
 
 
 
@@ -47,7 +49,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            2 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -58,6 +60,7 @@ Bread                                   7           2    5         23
 Aged Brie                               30          2    28        12     
 Sulfuras                                0           2    -2        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          2    28        7      
+Conjured item                           10          2    8         18     
 
 
 
@@ -67,7 +70,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            3 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -78,6 +81,7 @@ Bread                                   7           3    4         22
 Aged Brie                               30          3    27        13     
 Sulfuras                                0           3    -3        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          3    27        8      
+Conjured item                           10          3    7         16     
 
 
 
@@ -87,7 +91,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            4 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -98,6 +102,7 @@ Bread                                   7           4    3         21
 Aged Brie                               30          4    26        14     
 Sulfuras                                0           4    -4        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          4    26        9      
+Conjured item                           10          4    6         14     
 
 
 
@@ -107,7 +112,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            5 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -118,6 +123,7 @@ Bread                                   7           5    2         20
 Aged Brie                               30          5    25        15     
 Sulfuras                                0           5    -5        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          5    25        10     
+Conjured item                           10          5    5         12     
 
 
 
@@ -127,7 +133,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            6 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -138,6 +144,7 @@ Bread                                   7           6    1         19
 Aged Brie                               30          6    24        16     
 Sulfuras                                0           6    -6        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          6    24        11     
+Conjured item                           10          6    4         10     
 
 
 
@@ -147,7 +154,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            7 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -158,6 +165,7 @@ Bread                                   7           7    0         17
 Aged Brie                               30          7    23        17     
 Sulfuras                                0           7    -7        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          7    23        12     
+Conjured item                           10          7    3         8      
 
 
 
@@ -167,7 +175,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            8 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -178,6 +186,7 @@ Bread                                   7           8    -1        15
 Aged Brie                               30          8    22        18     
 Sulfuras                                0           8    -8        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          8    22        13     
+Conjured item                           10          8    2         6      
 
 
 
@@ -187,7 +196,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            9 days 
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -198,6 +207,7 @@ Bread                                   7           9    -2        13
 Aged Brie                               30          9    21        19     
 Sulfuras                                0           9    -9        80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          9    21        14     
+Conjured item                           10          9    1         4      
 
 
 
@@ -207,7 +217,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            10 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -218,6 +228,7 @@ Bread                                   7           10   -3        11
 Aged Brie                               30          10   20        20     
 Sulfuras                                0           10   -10       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          10   20        15     
+Conjured item                           10          10   0         0      
 
 
 
@@ -227,7 +238,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            11 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -238,6 +249,7 @@ Bread                                   7           11   -4        9
 Aged Brie                               30          11   19        21     
 Sulfuras                                0           11   -11       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          11   19        16     
+Conjured item                           10          11   -1        0      
 
 
 
@@ -247,7 +259,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            12 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -258,6 +270,7 @@ Bread                                   7           12   -5        7
 Aged Brie                               30          12   18        22     
 Sulfuras                                0           12   -12       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          12   18        17     
+Conjured item                           10          12   -2        0      
 
 
 
@@ -267,7 +280,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            13 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -278,6 +291,7 @@ Bread                                   7           13   -6        5
 Aged Brie                               30          13   17        23     
 Sulfuras                                0           13   -13       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          13   17        18     
+Conjured item                           10          13   -3        0      
 
 
 
@@ -287,7 +301,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            14 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -298,6 +312,7 @@ Bread                                   7           14   -7        3
 Aged Brie                               30          14   16        24     
 Sulfuras                                0           14   -14       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          14   16        19     
+Conjured item                           10          14   -4        0      
 
 
 
@@ -307,7 +322,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            15 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -318,6 +333,7 @@ Bread                                   7           15   -8        1
 Aged Brie                               30          15   15        25     
 Sulfuras                                0           15   -15       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          15   15        20     
+Conjured item                           10          15   -5        0      
 
 
 
@@ -327,7 +343,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            16 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -338,6 +354,7 @@ Bread                                   7           16   -9        0
 Aged Brie                               30          16   14        26     
 Sulfuras                                0           16   -16       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          16   14        21     
+Conjured item                           10          16   -6        0      
 
 
 
@@ -347,7 +364,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            17 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -358,6 +375,7 @@ Bread                                   7           17   -10       0
 Aged Brie                               30          17   13        27     
 Sulfuras                                0           17   -17       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          17   13        22     
+Conjured item                           10          17   -7        0      
 
 
 
@@ -367,7 +385,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            18 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -378,6 +396,7 @@ Bread                                   7           18   -11       0
 Aged Brie                               30          18   12        28     
 Sulfuras                                0           18   -18       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          18   12        23     
+Conjured item                           10          18   -8        0      
 
 
 
@@ -387,7 +406,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            19 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -398,6 +417,7 @@ Bread                                   7           19   -12       0
 Aged Brie                               30          19   11        29     
 Sulfuras                                0           19   -19       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          19   11        24     
+Conjured item                           10          19   -9        0      
 
 
 
@@ -407,7 +427,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            20 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -418,6 +438,7 @@ Bread                                   7           20   -13       0
 Aged Brie                               30          20   10        30     
 Sulfuras                                0           20   -20       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          20   10        26     
+Conjured item                           10          20   -10       0      
 
 
 
@@ -427,7 +448,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            21 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -438,6 +459,7 @@ Bread                                   7           21   -14       0
 Aged Brie                               30          21   9         31     
 Sulfuras                                0           21   -21       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          21   9         28     
+Conjured item                           10          21   -11       0      
 
 
 
@@ -447,7 +469,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            22 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -458,6 +480,7 @@ Bread                                   7           22   -15       0
 Aged Brie                               30          22   8         32     
 Sulfuras                                0           22   -22       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          22   8         30     
+Conjured item                           10          22   -12       0      
 
 
 
@@ -467,7 +490,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            23 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -478,6 +501,7 @@ Bread                                   7           23   -16       0
 Aged Brie                               30          23   7         33     
 Sulfuras                                0           23   -23       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          23   7         32     
+Conjured item                           10          23   -13       0      
 
 
 
@@ -487,7 +511,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            24 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -498,6 +522,7 @@ Bread                                   7           24   -17       0
 Aged Brie                               30          24   6         34     
 Sulfuras                                0           24   -24       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          24   6         34     
+Conjured item                           10          24   -14       0      
 
 
 
@@ -507,7 +532,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            25 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -518,6 +543,7 @@ Bread                                   7           25   -18       0
 Aged Brie                               30          25   5         35     
 Sulfuras                                0           25   -25       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          25   5         39     
+Conjured item                           10          25   -15       0      
 
 
 
@@ -527,7 +553,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            26 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -538,6 +564,7 @@ Bread                                   7           26   -19       0
 Aged Brie                               30          26   4         36     
 Sulfuras                                0           26   -26       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          26   4         44     
+Conjured item                           10          26   -16       0      
 
 
 
@@ -547,7 +574,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            27 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -558,6 +585,7 @@ Bread                                   7           27   -20       0
 Aged Brie                               30          27   3         37     
 Sulfuras                                0           27   -27       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          27   3         49     
+Conjured item                           10          27   -17       0      
 
 
 
@@ -567,7 +595,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            28 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -578,6 +606,7 @@ Bread                                   7           28   -21       0
 Aged Brie                               30          28   2         38     
 Sulfuras                                0           28   -28       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          28   2         50     
+Conjured item                           10          28   -18       0      
 
 
 
@@ -587,7 +616,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            29 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -598,6 +627,7 @@ Bread                                   7           29   -22       0
 Aged Brie                               30          29   1         39     
 Sulfuras                                0           29   -29       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          29   1         50     
+Conjured item                           10          29   -19       0      
 
 
 
@@ -607,7 +637,7 @@ Aging this Shop for 1 day(s)...
 key            value  
 -------------  -------
 age            30 days
-numberOfItems  5 items
+numberOfItems  6 items
 
 == Items in shop ==
 --------------------------------------------------------------------------
@@ -618,11 +648,12 @@ Bread                                   7           30   -23       0
 Aged Brie                               30          30   0         41     
 Sulfuras                                0           30   -30       80     
 Backstage Passes to YOUR-FANCY-CONCERT  30          30   0         0      
+Conjured item                           10          30   -20       0      
 
 
 
     ✓ shows a log of what happens in 30 days
 
 
-  1 passing (22ms)
+  1 passing (23ms)
 
